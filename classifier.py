@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # PROGRAMMER: Ritik Kumar
-# DATE CREATED: 10/03/2025
+# DATE CREATED: 10/01/2025
 
 import ast
 from PIL import Image
